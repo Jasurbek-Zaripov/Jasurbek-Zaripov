@@ -6,4 +6,5 @@
 
 <hr>
 
-<h3><img src="https://image.similarpng.com/very-thumbnail/2020/07/Telegram-logo-form-poi-vector-PNG.png" width="25px" />  https://t.me/Jasurme</h3>
+<h3>My Telegram:  https://t.me/Jasurme</h3>
+<hr>
